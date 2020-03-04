@@ -11,3 +11,7 @@ with open ("es.py moby-dick.txt", "r") as myfile:
             freq = freq + 1 #add one ot the freq of occurence 
     print(freq)
 
+
+# References 
+# https://stackoverflow.com/questions/22694244/counting-specific-letters-or-symbols-in-a-text-file-in-python
+# 
